@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40cf2522-a469-4f4b-ae4f-e6cfce6ba90a" name="Changes" comment="Fix event tests" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2XGxnoSprhzEWm97veZpXIxmrUD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;implement__nfc__module&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kirill-ryzhkov/Documents/chance-connectivity&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40cf2522-a469-4f4b-ae4f-e6cfce6ba90a" name="Changes" comment="" />
+      <created>1698269387753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698269387753</updated>
+      <workItem from="1698269388855" duration="195000" />
+      <workItem from="1698274513336" duration="15420000" />
+      <workItem from="1698330175193" duration="18981000" />
+      <workItem from="1698370142617" duration="13410000" />
+      <workItem from="1698638238507" duration="5664000" />
+      <workItem from="1698681735016" duration="1863000" />
+      <workItem from="1698685680503" duration="784000" />
+      <workItem from="1698862767006" duration="2137000" />
+      <workItem from="1698932505811" duration="16433000" />
+      <workItem from="1699299110410" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="Change EditProfile method logic and some bugs fix">
+      <option name="closed" value="true" />
+      <created>1698275671573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698275671573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change profileController test and fix bug">
+      <option name="closed" value="true" />
+      <created>1698276278721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698276278721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add event controller tests and rename some variables">
+      <option name="closed" value="true" />
+      <created>1698296387461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698296387461</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create delete event method, route and test">
+      <option name="closed" value="true" />
+      <created>1698299531020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698299531020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create many-to-many relation between events and users, create add new user and delete to event">
+      <option name="closed" value="true" />
+      <created>1698355362622</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698355362622</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create get all users of events method and test">
+      <option name="closed" value="true" />
+      <created>1698358096333</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698358096333</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implement documentation for all controller methods">
+      <option name="closed" value="true" />
+      <created>1698384755749</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698384755749</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Create import event method and test">
+      <option name="closed" value="true" />
+      <created>1698643905525</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698643905525</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create toggle subscribe method">
+      <option name="closed" value="true" />
+      <created>1698936119185</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698936119185</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Create doc&amp;test toggle subscribe method">
+      <option name="closed" value="true" />
+      <created>1698939252410</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698939252410</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix event tests">
+      <option name="closed" value="true" />
+      <created>1698940436106</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698940436106</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change EditProfile method logic and some bugs fix" />
+    <MESSAGE value="Change profileController test and fix bug" />
+    <MESSAGE value="Add event controller tests and rename some variables" />
+    <MESSAGE value="Create delete event method, route and test" />
+    <MESSAGE value="Create many-to-many relation between events and users, create add new user and delete to event" />
+    <MESSAGE value="Create get all users of events method and test" />
+    <MESSAGE value="Implement documentation for all controller methods" />
+    <MESSAGE value="Create import event method and test" />
+    <MESSAGE value="Create toggle subscribe method" />
+    <MESSAGE value="Create doc&amp;test toggle subscribe method" />
+    <MESSAGE value="Fix event tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix event tests" />
+  </component>
+</project>

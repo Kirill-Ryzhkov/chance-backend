@@ -1,4 +1,4 @@
-# chance-connectivity
+# chance-backend
 
 ## Project Overview:
 
@@ -16,33 +16,28 @@ The Event Management project is a comprehensive platform designed for creating, 
 1. [Bun installation](https://bun.sh/docs/installation)
 
 2. Clone project
-<pre>
 ```shell
     git clone https://github.com/Kirill-Ryzhkov/chance-backend.git
     cd chance-backend
     bun install
 ```
-</pre>
 
 3. Fill .env file
     - Create .env file in root of directory
     - Fill .env file
-    <pre>
     ```env
-    PORT=4000
-    MONGODB=mongodb+srv://...
-    SECRET=...
+        PORT=4000
+        MONGODB=mongodb+srv://...
+        SECRET=...
     ```
 
 4. Start project
-<pre>
 ```shell
     bun start
 ```
-</pre>
 
 5. Open documentation page in browser
 localhost:4000/api-docs
 
-## That's All
-## Enjoy
+<h3>That's All</h3>
+<h3>Enjoy</h3>

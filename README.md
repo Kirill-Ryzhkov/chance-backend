@@ -17,23 +17,23 @@ The Event Management project is a comprehensive platform designed for creating, 
 
 2. Clone project
 ```shell
-    git clone https://github.com/Kirill-Ryzhkov/chance-backend.git
-    cd chance-backend
-    bun install
+git clone https://github.com/Kirill-Ryzhkov/chance-backend.git
+cd chance-backend
+bun install
 ```
 
 3. Fill .env file
     - Create .env file in root of directory
     - Fill .env file
     ```env
-        PORT=4000
-        MONGODB=mongodb+srv://...
-        SECRET=...
+    PORT=4000
+    MONGODB=mongodb+srv://...
+    SECRET=...
     ```
 
 4. Start project
 ```shell
-    bun start
+bun start
 ```
 
 5. Open documentation page in browser
